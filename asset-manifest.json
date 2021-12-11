@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactshiva/static/css/main.48710270.chunk.css",
+    "main.js": "/reactshiva/static/js/main.36f01df1.chunk.js",
+    "main.js.map": "/reactshiva/static/js/main.36f01df1.chunk.js.map",
+    "runtime-main.js": "/reactshiva/static/js/runtime-main.02ba5bf0.js",
+    "runtime-main.js.map": "/reactshiva/static/js/runtime-main.02ba5bf0.js.map",
+    "static/js/2.773ccea7.chunk.js": "/reactshiva/static/js/2.773ccea7.chunk.js",
+    "static/js/2.773ccea7.chunk.js.map": "/reactshiva/static/js/2.773ccea7.chunk.js.map",
+    "index.html": "/reactshiva/index.html",
+    "static/css/main.48710270.chunk.css.map": "/reactshiva/static/css/main.48710270.chunk.css.map",
+    "static/js/2.773ccea7.chunk.js.LICENSE.txt": "/reactshiva/static/js/2.773ccea7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02ba5bf0.js",
+    "static/js/2.773ccea7.chunk.js",
+    "static/css/main.48710270.chunk.css",
+    "static/js/main.36f01df1.chunk.js"
+  ]
+}
